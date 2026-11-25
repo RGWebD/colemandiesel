@@ -1,0 +1,19 @@
+# Coleman Diesel Services LLC
+
+> Diesel and heavy truck repair shop at 10460 FM 1570, Greenville, TX 75402. Phone (903) 455-9348. Open Monday–Friday 8 AM–5 PM Central Time (holiday hours may vary; listed closed Thanksgiving and Black Friday); closed Saturday and Sunday. Rated 4.7 stars from 84 Google reviews.
+
+## Key facts
+- Category: Truck repair shop
+- Services: Diesel Truck Repair; Emissions & Aftertreatment; DOT & State Inspections; Trailer Maintenance; Oil Changes; Brakes, A/C & Electrical; Hopper Washout & Truck Wash; Parts Counter; Onsite Service
+- Vehicles: diesel and heavy trucks, trailers, work trucks, equipment and RVs (inspections and oil changes)
+- Booking: no online booking; call (903) 455-9348
+- Payments: checks, credit cards, debit cards, NFC mobile payments
+- Accessibility: wheelchair-accessible parking lot and restroom; on-site parking
+- Google Maps: https://www.google.com/maps/place/Coleman+Diesel+Services+LLC/@33.0779342,-96.152201,17z/
+
+## Pages
+- [Home](https://rgwebd.github.io/colemandiesel/): overview, services, why customers come back, reviews
+- [Services](https://rgwebd.github.io/colemandiesel/services.html): each service in detail and how a repair works
+- [The Shop](https://rgwebd.github.io/colemandiesel/shop.html): the yard, bays, inspection pit, parts room, amenities and photo gallery
+- [Reviews](https://rgwebd.github.io/colemandiesel/reviews.html): 4.7★ from 84 Google reviews, ten reviews quoted verbatim
+- [Contact](https://rgwebd.github.io/colemandiesel/contact.html): map, hours, phone, directions and FAQ
